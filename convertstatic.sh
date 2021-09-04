@@ -1,0 +1,1 @@
+rm -rf docs && reveal-md content/ --static docs --static-dirs=content/assets && mv docs/_assets docs/assets
