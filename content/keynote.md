@@ -26,7 +26,7 @@ Hong Kong, Sep. 2021
 
 - Refining knowledge distillation procedures
 - Memory Hierarchy and "second brain"
-- Hopefully improve the decision making ability
+- Hopefully improve long-term productivity 
 
 </div>
 <!-- .element: style="font-size:70%;" -->
@@ -199,10 +199,11 @@ Notice some sources are more **informative** than others.
 
 ## Case study: refining daily feed
 
+- Downgrade the weight of corporate web recommendation
 - Broad coverage across platforms/alternets
     - Reputation based: **trust** your sources
     - Twitter, Hacker news, latest eprint paper feed, **blogs**, **forums** etc.
-    - Good quality backlinks on Tor, Lokinet, Gemini
+    - Good quality backlinks on Tor, Lokinet, Gemini, IndieWeb
 - Feeding automation if possible
     - RSS aggregation scripts
     - Auto bot on Telegram or Discord
@@ -274,7 +275,7 @@ Notice some sources are more **informative** than others.
 
 ---
 
-## Key ideas
+### Key ideas
 
 <div class="left">
 
@@ -399,7 +400,13 @@ Notice some sources are more **informative** than others.
 ---
 <div>
 
-## Cybersecurity notes as a practice
+## Useful references
+
+- Time management
+    - [Terence Tao's advice](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+    - [Daily routine vlog of an Oxford PhD](https://www.youtube.com/watch?v=XW_qIqLhPkI)
+- Paper-oriented guidelines
+    - [Quality Research in Affordable Ways](http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf)
 
 </div>
 <!-- .element: style="font-size:70%;" -->
