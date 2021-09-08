@@ -73,7 +73,7 @@ With data, and its processing capability (w.r.t communication and computation) *
 
 <div>
 
-## Unique challenges in the new era
+## More challenges in the new era
 
 > To tell the truth, the whole truth, and nothing but the truth.
 - Overwhelmed information sources
