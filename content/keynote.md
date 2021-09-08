@@ -58,13 +58,29 @@ With data, and its processing capability (w.r.t communication and computation) *
 ---
 <div>
 
-## Impact on individual studying
+## Direct impact on individual study
 
 > There is a limit to our life, but to knowledge there is no limit. With what is limited to pursue after what is unlimited is a perilous thing. (吾生也有涯，而知也無涯，以有涯隨無涯，殆已)
 
 **More accurate version nowadays**:
 
 > There is a limit to our attention, but to effectively distill excessive information we can do much better...
+
+</div>
+<!-- .element: style="font-size:70%;" -->
+
+---
+
+<div>
+
+## Unique challenges in the new era
+
+> To tell the truth, the whole truth, and nothing but the truth.
+- Overwhelmed information sources
+    - Fake news for economic incentives and other agenda
+    - Selective omission of critical information 
+        - Low-quality reproduction
+        - Even the most well-intentioned writer could exclude certain elements from the analysis 
 
 </div>
 <!-- .element: style="font-size:70%;" -->
@@ -223,6 +239,7 @@ Notice some sources are more **informative** than others.
     - Fast evaluation
         - Is it informative (full of details)?
         - Is it insightful (w.r.t. high-level understanding)?
+        - Omissive of critical analysis?
     - Determine its priority according to demands
     - Archiving if it's useful or important (details later)
 
