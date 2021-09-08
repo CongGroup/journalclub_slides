@@ -216,14 +216,15 @@ Notice some sources are more **informative** than others.
 
 ## Case study: refining daily feed
 
-- Downgrade the weight of corporate web recommendation
+- Downplay the weight of corporate web recommendation
 - Broad coverage across platforms/alternets
     - Reputation based: **trust** your sources
+        - Subscribe the producer, not the reproducer, neither the platform
     - Twitter, Hacker news, latest eprint paper feed, **blogs**, **forums** etc.
     - Good quality backlinks on Tor, Lokinet, Gemini, IndieWeb
 - Feeding automation if possible
-    - RSS aggregation scripts
-    - Auto bot on Telegram or Discord
+    - RSS/Json feed aggregation
+    - Auto bot on Telegram, Discord, Mattermost
 
 </div>
 <!-- .element: style="font-size:70%;" -->
