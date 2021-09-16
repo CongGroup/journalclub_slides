@@ -4,7 +4,7 @@ theme: beige  # try solarized, serif or white
 transition: 'fade'
 ---
 
-<div>
+<div class="left">
 
 - 17/9 Chengjun Cai
 - 24/9 Yi Liu
@@ -13,6 +13,12 @@ transition: 'fade'
 - 22/10 Jing Yao
 - 29/10 Xiangyi Meng
 - 5/11 Anxin Zhou
+
+</div>
+<!-- .element: style="font-size:70%;" -->
+
+<div class="right">
+
 - 12/11 Zhengxiang Zhou
 - 19/11 Mingyue Wang
 - 26/11 Xiang Zheng
@@ -24,3 +30,24 @@ transition: 'fade'
 
 </div>
 <!-- .element: style="font-size:70%;" -->
+
+<style>
+.left {
+    margin: 0 0 0 0;
+    text-align: center;
+    float: left;
+    z-index:-10;
+    width:45%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+.right {
+    margin: 0 0 0 0;
+    float: right;
+    text-align: center;
+    z-index:-10;
+    width:45%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+</style>
