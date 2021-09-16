@@ -4,6 +4,8 @@ theme: beige  # try solarized, serif or white
 transition: 'fade'
 ---
 
+<div>
+
 - 17/9 Chengjun Cai
 - 24/9 Yi Liu
 - 8/10 Peipei Jiang
@@ -19,3 +21,6 @@ transition: 'fade'
 - 17/12 Yanlin Wang
 - 24/12 Wentao Dong
 - 31/12 Rui Lian
+
+</div>
+<!-- .element: style="font-size:70%;" -->
