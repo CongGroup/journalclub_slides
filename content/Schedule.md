@@ -7,7 +7,7 @@ transition: 'fade'
 <div class="left">
 
 - 10/9 [Yuefeng Du](https://conggroup.github.io/journalclub_slides/2021-09-10_keynote_Yuefeng.html#/)
-- 17/9 [Chengjun Cai](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-09-17_chengjun.pptx) (Only support private github access)
+- 17/9 [Chengjun Cai](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-09-17_chengjun.pptx) (private access)
 - 24/9 Yi Liu
 - 8/10 Peipei Jiang
 - 15/10 Lingchen Zhao
@@ -32,12 +32,8 @@ transition: 'fade'
 </div>
 <!-- .element: style="font-size:70%;" -->
 
-<div>
 
 Schedule last time modified: 20210914
-
-</div>
-<!-- .element: style="font-size:60%;" -->
 
 <style>
 .left {
