@@ -32,7 +32,12 @@ transition: 'fade'
 </div>
 <!-- .element: style="font-size:70%;" -->
 
+<div>
+
 Schedule last time modified: 20210914
+
+</div>
+<!-- .element: style="font-size:60%;" -->
 
 <style>
 .left {
