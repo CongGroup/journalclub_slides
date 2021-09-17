@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: schedule and past presentations
 theme: beige  # try solarized, serif or white
 transition: 'fade'
 ---
