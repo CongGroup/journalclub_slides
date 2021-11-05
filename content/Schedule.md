@@ -21,7 +21,7 @@ transition: 'fade'
 <div class="right">
 
 - 12/11 Zhengxiang Zhou
-- 19/11 Mingyue Wang
+- 17/11 Mingyue Wang
 - 26/11 Xiang Zheng
 - 3/12 Yichen Zang
 - 10/12 Zheng Zheng
