@@ -4,36 +4,43 @@ theme: beige  # try solarized, serif or white
 transition: 'fade'
 ---
 
-<div class="left">
+<div class="right">
 
-- 10/9 [Yuefeng Du](https://conggroup.github.io/journalclub_slides/2021-09-10_keynote_Yuefeng.html#/)
-- 17/9 [Chengjun Cai](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-09-17_chengjun.pptx) (private)
-- 24/9 [Yi Liu](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-09-24_yiliu.pptx) (private)
-- 8/10 Peipei Jiang
-- 15/10 Lingchen Zhao
-- 22/10 Jing Yao
-- 29/10 Xiangyi Meng
-- 5/11 Anxin Zhou
+- 11/02 Sirui He
+- 18/02 Leqian Zheng
+- 25/02 Zizhuo Chen
+- 04/03 Yuefeng Du
+- 11/03 Chengjun Cai
+- 18/03 Yi Liu
+- 25/03 Peipei Jiang
+- 01/04 Lingchen Zhao
+- 08/04 Jing Yao
+- 22/04 Xiangyi Meng
+- 29/04 Anxin Zhou
 
 </div>
 <!-- .element: style="font-size:70%;" -->
 
-<div class="right">
+<div class="left">
 
 - 12/11 Zhengxiang Zhou
 - 17/11 Mingyue Wang
 - 26/11 Xiang Zheng
-- 3/12 Yichen Zang
+- 03/12 Yichen Zang
 - 10/12 Zheng Zheng
 - 17/12 Yanlin Wang
 - 24/12 Wentao Dong
 - 31/12 Rui Lian
+- 07/01 Yufei Chen
+- 14/01 Jiasi Weng
+- 21/01 Yiyin Zhang
+- 28/01 Xinyan Li
 
 </div>
 <!-- .element: style="font-size:70%;" -->
 
 
-Schedule last time modified: 20211105
+Schedule last time modified: 20211117
 
 <style>
 .left {
