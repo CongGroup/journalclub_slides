@@ -21,4 +21,4 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install --no-optional reveal-md
-          rm -rf docs && ./node_modules/.bin/reveal-md content/ --static docs --static-dirs=content/assets && mv docs/_assets docs/assets
+          rm -rf docs && ./node_modules/.bin/reveal-md content/ --static docs --static-dirs=content/assets
