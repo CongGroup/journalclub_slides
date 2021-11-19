@@ -22,15 +22,13 @@ jobs:
         run: |
           npm install --no-optional reveal-md
           rm -rf docs && ./node_modules/.bin/reveal-md content/ --static docs --static-dirs=content/assets
-      - name: Switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
-      - name: Check for changes
-        run: git status
-      - name: Stage changed files
-        run: git add .
-      - name: Commit changed files
-        run: git commit -m "Automatically re-build upon every push."
-      - name: Fetch from master
-        run: git fetch origin master
-      - name: Push code to master
-        run: git push origin HEAD:master
+      - name: Commit files
+        run: |
+          git config --local user.email "conggroup+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Automatically re-build upon each push." -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
