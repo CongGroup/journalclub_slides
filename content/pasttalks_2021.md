@@ -30,3 +30,24 @@ transition: 'fade'
 
 
 </div>
+
+<style>
+.left {
+    margin: 0 0 0 0;
+    text-align: center;
+    float: left;
+    z-index:-10;
+    width:45%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+.right {
+    margin: 0 0 0 0;
+    float: right;
+    text-align: center;
+    z-index:-10;
+    width:45%;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+</style>
