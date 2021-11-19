@@ -22,7 +22,11 @@ jobs:
         run: |
           npm install --no-optional reveal-md
           rm -rf docs && ./node_modules/.bin/reveal-md content/ --static docs --static-dirs=content/assets
-          cp content/public/* doc/
+          for f in content/publics/*; do
+            if [[ ! -f "docs/$(basename ${f})" && ! -d "docs/$(basename ${f})" ]]; then
+              cp "$f" docs/
+            fi
+          done
       - name: Commit files
         run: |
           git config --local user.email "conggroup+github-actions[bot]@users.noreply.github.com"
