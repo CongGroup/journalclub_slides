@@ -11,8 +11,8 @@ transition: 'fade'
 - 24/09/2021 [Yi Liu](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-09-24_yiliu.pptx) (private)
 - 08/10/2021 Peipei Jiang
 - 15/10/2021 Lingchen Zhao
-- 22/10/2021 Jing Yao
-- 29/10/2021 Xiangyi Meng
+- 22/10/2021 [Jing Yao](https://github.com/CongGroup/journalclub_slides/tree/master/content/2021-10-22_jing.pptx)
+- 29/10/2021 [Xiangyi Meng](2021-10-29_xiangyi.pdf)
 - 05/11/2021 Anxin Zhou
 
 </div>
