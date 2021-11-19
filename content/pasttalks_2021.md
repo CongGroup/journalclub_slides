@@ -38,7 +38,7 @@ transition: 'fade'
     float: left;
     z-index:-10;
     width:45%;
-    font-size: 0.85em;
+    font-size: 0.5em;
     line-height: 1.5;
 }
 .right {
@@ -47,7 +47,7 @@ transition: 'fade'
     text-align: center;
     z-index:-10;
     width:45%;
-    font-size: 0.85em;
+    font-size: 0.5em;
     line-height: 1.5;
 }
 </style>
