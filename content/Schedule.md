@@ -11,7 +11,7 @@ transition: 'fade'
 - 25/02 Zizhuo Chen
 - 04/03 Yuefeng Du
 - 11/03 Chengjun Cai
-- 18/03 Yi Liu
+- 18/03 Yi Liui
 - 25/03 Peipei Jiang
 - 01/04 Lingchen Zhao
 - 08/04 Jing Yao
