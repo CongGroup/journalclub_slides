@@ -13,7 +13,7 @@ transition: 'fade'
 - 15/10/2021 Lingchen Zhao
 - 22/10/2021 [Jing Yao](2021-10-22_jing.pptx)
 - 29/10/2021 [Xiangyi Meng](2021-10-29_xiangyi.pdf)
-- 05/11/2021 Anxin Zhou
+- 05/11/2021 [Anxin Zhou](2021-11-05_anxin.pptx)
 
 </div>
 
