@@ -23,7 +23,7 @@ transition: 'fade'
 - 17/11/2021 Mingyue Wang: Dynamic Proactive Secret Sharing in Hierarchical Access Structure
 - 26/11/2021 Xiang Zheng: Adversarial Policy: A New Type of Attack on Deep Reinforcement Learning Agent
 - 03/12/2021 Yichen Zang: How does Internet censorship work? A study on the Great Firewall
-- 10/12/2021 Zheng Zheng
+- 10/12/2021 Zheng Zheng: Latest arts on protecting face data privacy against unauthorized usages 
 - 17/12/2021 Yanlin Wang
 - 24/12/2021 Wentao Dong
 - 31/12/2021 Rui Lian
