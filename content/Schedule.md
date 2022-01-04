@@ -42,7 +42,7 @@ transition: 'fade'
 <!-- .element: style="font-size:70%;" -->
 
 
-Last time modified: 20220104
+Modified: 20220104
 
 <style>
 .left {
