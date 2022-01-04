@@ -14,19 +14,18 @@ transition: 'fade'
 - 22/10/2021 [Jing Yao](2021-10-22_jing.pptx)
 - 29/10/2021 [Xiangyi Meng: ](2021-10-29_xiangyi.pdf)
 - 05/11/2021 [Anxin Zhou: SoK: Towards Scalable Blockchain](2021-11-05_anxin.pptx)
-
+- 12/11/2021 Zhengxiang Zhou: The Art of Fuzzing
 </div>
 
 <div class="right">
 
-- 12/11/2021 Zhengxiang Zhou: The Art of Fuzzing
 - 17/11/2021 Mingyue Wang: Dynamic Proactive Secret Sharing in Hierarchical Access Structure
 - 26/11/2021 Xiang Zheng: Adversarial Policy: A New Type of Attack on Deep Reinforcement Learning Agent
 - 03/12/2021 Yichen Zang: How does Internet censorship work? A study on the Great Firewall
 - 10/12/2021 Zheng Zheng: Latest arts on protecting face data privacy against unauthorized usages 
 - 17/12/2021 Yanlin Wang: Latest arts on differential privacy in deep learning
-- 24/12/2021 Wentao Dong
-- 31/12/2021 Rui Lian
+- 24/12/2021 Wentao Dong: Towards Bridging the First and Last Mile Gap of Multi-party Collaborative Statistics
+- 31/12/2021 Rui Lian: Content Moderation in End-to-end Encrypted Applications
 
 
 </div>
