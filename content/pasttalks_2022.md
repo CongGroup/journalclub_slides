@@ -10,6 +10,7 @@ transition: 'fade'
 - 14/01 Jiasi Weng: Towards Verifiable Data Deletion from Trained Models
 - 28/01 Yiyin Zhang: SoK: On the Anonymity of Cryptocurrencies
 - 29/04 Anxin Zhou: [Latest advancements on secure offchain payment system for blockchain](https://github.com/CongGroup/journalclub_slides/blob/master/content/2022-04-29_Anxin.pptx)
+- 20/05 Xiang Zheng: [Introduction to Exploration in Reinforcement Learning](https://drive.google.com/file/d/1E4ay15BTTG7m6CjuermPlnTaGnUbMQHX/view?usp=sharing)
 
 </div>
 
