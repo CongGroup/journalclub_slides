@@ -14,18 +14,16 @@ transition: 'fade'
 
 </div>
 
-<!-- <div class="right">
+<div class="right">
 
-- 17/11/2021 Mingyue Wang: Dynamic Proactive Secret Sharing in Hierarchical Access Structure
-- 26/11/2021 Xiang Zheng: Adversarial Policy: A New Type of Attack on Deep Reinforcement Learning Agent
-- 03/12/2021 Yichen Zang: How does Internet censorship work? A study on the Great Firewall
-- 10/12/2021 Zheng Zheng: Latest arts on protecting face data privacy against unauthorized usages 
-- 17/12/2021 Yanlin Wang: Latest arts on differential privacy in deep learning
-- 24/12/2021 Wentao Dong: Towards Bridging the First and Last Mile Gap of Multi-party Collaborative Statistics
-- 31/12/2021 Rui Lian: Content Moderation in End-to-end Encrypted Applications
+- 25/05/2022 Yichen Zang: HiddenTOR: A Metadata-hiding TOR Network with Hidden Relays
+- 10/06/2022 Zheng Zheng: Advancements on anti-spoofing methods for face authentication on smartphones
+- 17/06/2022 Yanling Wang: Adversarial Attack & Defense in Recommender System
+- 24/06/2022 Wentao Dong: Optimize Your Secure Multi-Party Computation Programs & Some Useful Gadgets
 
 
-</div> -->
+
+</div>
 
 <style>
 .left {
