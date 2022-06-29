@@ -6,16 +6,17 @@ transition: 'fade'
 
 <div class="right">
 
-
-- 23/09 Anxin Zhou
-- 30/09 Zhengxiang Zhou
-- 07/10 Mingyue Wang
-- 14/10 Xiang Zheng
-- 21/10 Yichen Zang
-- 28/10 Zheng Zheng
-- 04/11 Yanlin Wang
-- 11/11 Wentao Dong
-- 18/11 Rui Lian
+- 30/09 Jing Yao
+- 07/10 Xiangyi Meng
+- 14/10 Anxin Zhou
+- 21/10 Zhengxiang Zhou
+- 28/10 Mingyue Wang
+- 04/11 Xiang Zheng
+- 11/11 Yichen Zang
+- 18/11 Zheng Zheng
+- 25/11 Yanlin Wang
+- 02/12 Wentao Dong
+- 09/12 Rui Lian
 
 </div>
 <!-- .element: style="font-size:70%;" -->
@@ -23,19 +24,18 @@ transition: 'fade'
 <div class="left">
 
 
-<!-- - 07/01 Yufei Chen
-- 14/01 Jiasi Weng
-- 21/01 Yiyin Zhang -->
-- 15/07 Xinyan Li
-- 22/07 Sirui He
-- 29/07 Leqian Zheng
-- 05/08 Zizhuo Chen
-- 12/08 Yuefeng Du
-- 19/08 Yi Liu
-- 26/08 Peipei Jiang
-- 02/09 Lingchen Zhao
-- 09/09 Jing Yao
-- 16/09 Xiangyi Meng
+- 15/07 Yufei Chen
+- 22/07 Jiasi Weng
+- 29/07 Yiyin Zhang
+- 05/08 Xinyan Li
+- 12/08 Sirui He
+- 19/08 Leqian Zheng
+- 26/08 Zizhuo Chen
+- 02/09 Yuefeng Du
+- 09/09 Yi Liu
+- 16/09 Peipei Jiang
+- 23/09 Lingchen Zhao
+
 
 </div>
 <!-- .element: style="font-size:70%;" -->
