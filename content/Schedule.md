@@ -6,17 +6,17 @@ transition: 'fade'
 
 <div class="right">
 
-- 30/09 Jing Yao
-- 07/10 Xiangyi Meng
-- 14/10 Anxin Zhou
-- 21/10 Zhengxiang Zhou
-- 28/10 Mingyue Wang
-- 04/11 Xiang Zheng
-- 11/11 Yichen Zang
-- 18/11 Zheng Zheng
-- 25/11 Yanlin Wang
-- 02/12 Wentao Dong
-- 09/12 Rui Lian
+- 30/09 Xiangyi Meng
+- 07/10 Anxin Zhou
+- 14/10 Zhengxiang Zhou
+- 21/10 Mingyue Wang
+- 28/10 Xiang Zheng
+- 04/11 Yichen Zang
+- 11/11 Zheng Zheng
+- 18/11 Yanlin Wang
+- 25/11 Wentao Dong
+- 02/12 Rui Lian
+- 09/12 TBA
 
 </div>
 <!-- .element: style="font-size:70%;" -->
@@ -41,7 +41,7 @@ transition: 'fade'
 <!-- .element: style="font-size:70%;" -->
 
 
-Modified: 20220629
+Modified: 20220706
 
 <style>
 .left {
