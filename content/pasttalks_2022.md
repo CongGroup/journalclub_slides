@@ -11,16 +11,23 @@ transition: 'fade'
 - 28/01 Yiyin Zhang: SoK: On the Anonymity of Cryptocurrencies
 - 29/04 Anxin Zhou: [Latest advancements on secure offchain payment system for blockchain](https://github.com/CongGroup/journalclub_slides/blob/master/content/2022-04-29_Anxin.pptx)
 - 20/05 Xiang Zheng: [Introduction to Exploration in Reinforcement Learning](https://drive.google.com/file/d/1E4ay15BTTG7m6CjuermPlnTaGnUbMQHX/view?usp=sharing)
+- 25/05 Yichen Zang: HiddenTOR: A Metadata-hiding TOR Network with Hidden Relays
+- 10/06 Zheng Zheng: Advancements on anti-spoofing methods for face authentication on smartphones
+- 17/06 Yanling Wang: Adversarial Attack & Defense in Recommender System
+- 24/06 Wentao Dong: Optimize Your Secure Multi-Party Computation Programs & Some Useful Gadgets
+- 08/07 Rui Lian: Moderating Encrypted Content with Private Crowd Wisdom: Issues and Challenges
+- 15/07 Yufei Chen: Learning Outside the Model: Opportunities and Challenges
 
 </div>
 
 <div class="right">
 
-- 25/05/2022 Yichen Zang: HiddenTOR: A Metadata-hiding TOR Network with Hidden Relays
-- 10/06/2022 Zheng Zheng: Advancements on anti-spoofing methods for face authentication on smartphones
-- 17/06/2022 Yanling Wang: Adversarial Attack & Defense in Recommender System
-- 24/06/2022 Wentao Dong: Optimize Your Secure Multi-Party Computation Programs & Some Useful Gadgets
-
+- 22/07 Jiasi Weng: Enabling Verifiable Claims for Machine Learning Based Service
+- 29/07 Yiyin Zhang: The anonymity of lightweight clients of cryptocurrencies
+- 05/08 Xinyan Li: The Range Query Control Framework
+- 12/08 Sirui He: Fuzzing RTL CPU Design with Semantic Coverage and Runtime Mutation
+- 19/08 Leqian Zheng: Encrypted Databases: Frontiers and Prospects
+- 26/08 Zizhuo Chen: Backdoor Energy-and-latency Attack towards Federated Learning
 
 
 </div>
