@@ -6,16 +6,16 @@ transition: 'fade'
 
 <div class="right">
 
-- 28/11 Yanlin Wang
-- 05/12 Wentao Dong
-- 12/12 Rui Lian
-- 19/12 Yulong Ming
-- TBA Yufei Chen
+- 28/11 Wentao Dong
+- 05/12 Rui Lian
+- 12/12 Yulong Ming
+- 19/12 Yufei Chen
 - TBA Yiyin Zhang
 - TBA Xinyan Li
 - TBA Sirui He
 - TBA Leqian Zheng
 - TBA Zizhuo Chen
+- TBA Lei Xu
 
 </div>
 <!-- .element: style="font-size:70%;" -->
@@ -26,21 +26,21 @@ transition: 'fade'
 - 05/09 Yuefeng Du
 - 19/09 Yi Liu
 - 26/09 Peipei Jiang
-- 03/10 Lingchen Zhao
-- 10/10 Xiangyi Meng
-- 17/10 Anxin Zhou
-- 24/10 Zhengxiang Zhou
-- 31/10 Mingyue Wang
-- 07/11 Xiang Zheng
-- 14/11 Yichen Zang
-- 21/11 Zheng Zheng
+- 03/10 Xiangyi Meng
+- 10/10 Anxin Zhou
+- 17/10 Zhengxiang Zhou
+- 24/10 Mingyue Wang
+- 31/10 Xiang Zheng
+- 07/11 Yichen Zang
+- 14/11 Zheng Zheng
+- 21/11 Yanlin Wang
 
 
 </div>
 <!-- .element: style="font-size:70%;" -->
 
 
-Modified: 20220831
+Modified: 20220904
 
 <style>
 .left {
