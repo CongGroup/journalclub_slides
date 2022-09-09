@@ -6,11 +6,11 @@ transition: 'fade'
 
 <div class="right">
 
+- 21/11 Yanlin Wang
 - 28/11 Wentao Dong
 - 05/12 Rui Lian
 - 12/12 Yulong Ming
-- 19/12 Yufei Chen
-- TBA Yiyin Zhang
+- 19/12 Yiyin Zhang
 - TBA Xinyan Li
 - TBA Sirui He
 - TBA Leqian Zheng
@@ -33,7 +33,7 @@ transition: 'fade'
 - 31/10 Xiang Zheng
 - 07/11 Yichen Zang
 - 14/11 Zheng Zheng
-- 21/11 Yanlin Wang
+
 
 
 </div>
