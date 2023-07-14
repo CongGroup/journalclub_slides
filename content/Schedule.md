@@ -6,16 +6,17 @@ transition: 'fade'
 
 <div class="right">
 
-- 22/05 Yanlin Wang
-- 29/05 Wentao Dong
-- 05/06 Rui Lian
-- 12/06 Yulong Ming
-- 19/06 Yiyin Zhang
-- 26/06 Xinyan Li
-- 05/07 Sirui He
-- 12/07 Leqian Zheng
-- 19/07 Zizhuo Chen
-- 26/07 Yuefeng Du
+- 13/10 Yanlin Wang
+- 20/10 Wentao Dong
+- 27/10 Rui Lian
+- 03/11 Yulong Ming
+- 10/11 Yiyin Zhang
+- 17/11 Xinyan Li
+- 24/11 Sirui He
+- 01/12 Leqian Zheng
+- 08/12 Yuefeng Du
+- 15/12 Zizhuo Chen
+
 
 
 </div>
@@ -23,16 +24,16 @@ transition: 'fade'
 
 <div class="left">
 
-- 27/02 Yi Liu
-- 06/03 Peipei Jiang
-- 13/03 Xiangyi Meng
-- 20/03 Anxin Zhou
-- 27/03 Lei Xu
-- 03/04 Zhengxiang Zhou
-- 17/04 Mingyue Wang
-- 24/04 Xiang Zheng
-- 08/05 Yichen Zang
-- 15/05 Zheng Zheng
+- 04/08 Yi Liu
+- 11/08 Peipei Jiang
+- 18/08 Xiangyi Meng
+- 25/08 Anxin Zhou
+- 01/09 Lei Xu
+- 08/09 Zhengxiang Zhou
+- 15/09 Mingyue Wang
+- 22/09 Xiang Zheng
+- 29/09 Yichen Zang
+- 06/10 Zheng Zheng
 
 
 
